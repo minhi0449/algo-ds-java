@@ -10,9 +10,9 @@
 
 ## 개발 환경
 
-[![Java](https://img.shields.io/badge/Java-11%2B-orange?logo=openjdk&logoColor=white)](https://openjdk.org/)
-[![IDE - IntelliJ](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?logo=intellijidea)](https://www.jetbrains.com/idea/)
-[![IDE - Eclipse](https://img.shields.io/badge/IDE-Eclipse-purple?logo=eclipseide)](https://www.eclipse.org/)
+[![Java](https://img.shields.io/badge/Java-11%2B-orange?logo=openjdk&logoColor=white)](https://openjdk.org/)</br>
+[![IDE - IntelliJ](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?logo=intellijidea)](https://www.jetbrains.com/idea/)</br>
+[![IDE - Eclipse](https://img.shields.io/badge/IDE-Eclipse-purple?logo=eclipseide)](https://www.eclipse.org/)</br>
 
 
 # 
