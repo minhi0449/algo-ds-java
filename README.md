@@ -15,8 +15,7 @@
 [![IDE - Eclipse](https://img.shields.io/badge/IDE-Eclipse-purple?logo=eclipseide)](https://www.eclipse.org/)
 
 
-# 알고리즘 및 자료구조 학습 Repository
-
+# 
 ![GitHub License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Java](https://img.shields.io/badge/Language-Java-orange.svg)
 ![Last Commit](https://img.shields.io/github/last-commit/minhi0449/algo-ds-java?color=green)
