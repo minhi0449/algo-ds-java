@@ -20,6 +20,35 @@
 > 이 저장소는 자바 기반으로 알고리즘과 자료구조 개념을 실습하고 정리하는 프로젝트입니다.
 
 
+
+---
+
+# Java 알고리즘 & 자료구조 학습 저장소
+
+[![Java](https://img.shields.io/badge/언어-Java-007396?style=flat-square&logo=java)](https://www.oracle.com/java/)
+[![Algorithm](https://img.shields.io/badge/학습-알고리즘-FF4500?style=flat-square)](#)
+[![DataStructure](https://img.shields.io/badge/학습-자료구조-4CAF50?style=flat-square)](#)
+[![CS Fundamentals](https://img.shields.io/badge/CS-기초지식-FFC107?style=flat-square)](#)
+[![Coding Test](https://img.shields.io/badge/준비-코딩테스트-03A9F4?style=flat-square)](#)
+
+> 이 저장소는 자바 기반으로 알고리즘과 자료구조를 학습하고, 코딩 테스트를 준비하는 프로젝트입니다.
+
+## 📚 학습 내용
+
+- **알고리즘**: 정렬, 탐색, 그래프, 동적 프로그래밍 등
+- **자료구조**: 배열, 연결 리스트, 스택, 큐, 트리, 해시 등
+- **문제 풀이**: 다양한 코딩 테스트 플랫폼 문제 해결 및 분석
+
+## 🎯 목표
+
+- 컴퓨터 과학 기초 개념 이해 및 응용
+- 효율적인 알고리즘 설계 능력 향상
+- 코딩 테스트 대비 문제 해결 역량 강화
+
+## 🛠️ 개발 환경
+
+- Java 11 이상
+- IDE: IntelliJ IDEA, Eclipse
 ---
 
 ## 📘 프로젝트 소개
