@@ -9,6 +9,18 @@
 [![Coding Test](https://img.shields.io/badge/Coding--Test-Preparation-success)](#)
 
 ---
+# Java Algorithm & Data Structure Study
+
+[![Java](https://img.shields.io/badge/Language-Java-blue.svg)](https://www.oracle.com/java/)
+[![Algorithm](https://img.shields.io/badge/Study-Algorithm-red)](#)
+[![DataStructure](https://img.shields.io/badge/Study-DataStructure-green)](#)
+[![CS Fundamentals](https://img.shields.io/badge/CS-Fundamentals-important)](#)
+[![Coding Test](https://img.shields.io/badge/Preparation-CodingTest-yellow)](#)
+
+> 이 저장소는 자바 기반으로 알고리즘과 자료구조 개념을 실습하고 정리하는 프로젝트입니다.
+
+
+---
 
 ## 📘 프로젝트 소개
 
