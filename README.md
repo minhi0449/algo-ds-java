@@ -1,6 +1,5 @@
 # algo-ds-java
-
-> Java 기반 Algorithm &amp; Data Structure 학습 프로젝트
+> Java 기반 알고리즘(Algorithm) &amp; 자료구조(Data Structure) 개념 학습/실습 프로젝트
 
 # Java Algorithm & Data Structure Study
 
