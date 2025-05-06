@@ -6,7 +6,7 @@
 [![DataStructure](https://img.shields.io/badge/Study-DataStructure-green)](#)
 [![CS Fundamentals](https://img.shields.io/badge/CS-Fundamentals-important)](#)
 [![Coding Test](https://img.shields.io/badge/Preparation-CodingTest-yellow)](#)
-[Eclipse](https://img.shields.io/badge/IDE-Eclipse-purple?logo=eclipseide)](https://www.eclipse.org/)
+
 
 # 
 | 챕터 | 주제 (영어)                  | 세부 내용                                      |
