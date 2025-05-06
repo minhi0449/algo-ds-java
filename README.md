@@ -6,30 +6,9 @@
 [![DataStructure](https://img.shields.io/badge/Study-DataStructure-green)](#)
 [![CS Fundamentals](https://img.shields.io/badge/CS-Fundamentals-important)](#)
 [![Coding Test](https://img.shields.io/badge/Preparation-CodingTest-yellow)](#)
-
-
-## 개발 환경
-
-[![Java](https://img.shields.io/badge/Java-11%2B-orange?logo=openjdk&logoColor=white)](https://openjdk.org/)</br>
-[![IDE - IntelliJ](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?logo=intellijidea)](https://www.jetbrains.com/idea/)</br>
-[![IDE - Eclipse](https://img.shields.io/badge/IDE-Eclipse-purple?logo=eclipseide)](https://www.eclipse.org/)</br>
-
-
-## 개발 환경
-
-• 개발 언어: [![Java](https://img.shields.io/badge/Java-11%2B-orange?logo=openjdk&logoColor=white)](https://openjdk.org/)
-
-• 개발 도구:
-  [![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?logo=intellijidea)](https://www.jetbrains.com/idea/)
-  [![Eclipse](https://img.shields.io/badge/IDE-Eclipse-purple?logo=eclipseide)](https://www.eclipse.org/)
+[Eclipse](https://img.shields.io/badge/IDE-Eclipse-purple?logo=eclipseide)](https://www.eclipse.org/)
 
 # 
-![GitHub License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Java](https://img.shields.io/badge/Language-Java-orange.svg)
-![Last Commit](https://img.shields.io/github/last-commit/minhi0449/algo-ds-java?color=green)
-![Issues](https://img.shields.io/github/issues/minhi0449/algo-ds-java?color=red)
-
-
 | 챕터 | 주제 (영어)                  | 세부 내용                                      |
 |------|------------------------------|-----------------------------------------------|
 | chap01   | 기본 알고리즘 (Basic Algorithm)         | 알고리즘 개요, 시간 복잡도, 공간 복잡도          |
@@ -42,7 +21,3 @@
 | chap08   | 리스트 (List)                         | 배열 기반 리스트, 연결 리스트, 원형 리스트       |
 | chap09   | 트리 (Tree)                           | 이진 트리, 이진 검색 트리, 트리 순회             |
 | chap10   | 해시 (Hash)                           | 해시 테이블, 충돌 해결, 해시 함수 설계           |
-
-
-
-
