@@ -1,5 +1,5 @@
 # Java Algorithm & Data Structure Study
-> Java 기반 알고리즘(Algorithm) &amp; 자료구조(Data Structure) 개념 학습/실습 및 코딩테스트 준비 프로젝트
+> Java 기반 알고리즘 &amp; 자료구조개 학습 및 코딩테스트 준비 프로젝트
 
 [![Java](https://img.shields.io/badge/Language-Java-blue.svg)](https://www.oracle.com/java/)
 [![Algorithm](https://img.shields.io/badge/Study-Algorithm-red)](#)
