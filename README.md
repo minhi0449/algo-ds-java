@@ -35,7 +35,7 @@
 > 본 레포지토리는 학습 목적의 에듀용 저장소입니다.  
 > 따라서 **문제 구분 및 가독성을 높이기 위해 하이브리드 네이밍(`Q1_Max4`)을 사용**합니다.  
 
-## ✓ 개발 환경
+## ☑ 개발 환경
 - Java SE Development Kit (JDK) 8 이상
-- Eclipse IDE
+- Eclipse IDE / IntelliJ IDEA CE
 - 외부 라이브러리 없음 (순수 자바만 사용)
