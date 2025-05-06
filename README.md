@@ -8,7 +8,7 @@
 [![Coding Test](https://img.shields.io/badge/Preparation-CodingTest-yellow)](#)
 
 
-# 
+# 학습 목차
 | 챕터 | 주제 (영어)                  | 세부 내용                                      |
 |------|------------------------------|-----------------------------------------------|
 | chap01   | 기본 알고리즘 (Basic Algorithm)         | 알고리즘 개요, 시간 복잡도, 공간 복잡도          |
