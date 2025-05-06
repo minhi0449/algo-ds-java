@@ -1,14 +1,5 @@
-# algo-ds-java
-> Java 기반 알고리즘(Algorithm) &amp; 자료구조(Data Structure) 개념 학습/실습 프로젝트
-
 # Java Algorithm & Data Structure Study
-
-[![Java](https://img.shields.io/badge/language-Java-blue.svg)](https://www.oracle.com/java/)
-[![CS Fundamentals](https://img.shields.io/badge/CS-Fundamentals-important)](#)
-[![Coding Test](https://img.shields.io/badge/Coding--Test-Preparation-success)](#)
-
----
-# Java Algorithm & Data Structure Study
+> Java 기반 알고리즘(Algorithm) &amp; 자료구조(Data Structure) 개념 학습/실습 및 코딩테스트 준비 프로젝트
 
 [![Java](https://img.shields.io/badge/Language-Java-blue.svg)](https://www.oracle.com/java/)
 [![Algorithm](https://img.shields.io/badge/Study-Algorithm-red)](#)
@@ -16,29 +7,14 @@
 [![CS Fundamentals](https://img.shields.io/badge/CS-Fundamentals-important)](#)
 [![Coding Test](https://img.shields.io/badge/Preparation-CodingTest-yellow)](#)
 
-> 이 저장소는 자바 기반으로 알고리즘과 자료구조 개념을 실습하고 정리하는 프로젝트입니다.
 
-
-
----
-
-# Java 알고리즘 & 자료구조 학습 저장소
-
-[![Java](https://img.shields.io/badge/언어-Java-007396?style=flat-square&logo=java)](https://www.oracle.com/java/)
-[![Algorithm](https://img.shields.io/badge/학습-알고리즘-FF4500?style=flat-square)](#)
-[![DataStructure](https://img.shields.io/badge/학습-자료구조-4CAF50?style=flat-square)](#)
-[![CS Fundamentals](https://img.shields.io/badge/CS-기초지식-FFC107?style=flat-square)](#)
-[![Coding Test](https://img.shields.io/badge/준비-코딩테스트-03A9F4?style=flat-square)](#)
-
-> 이 저장소는 자바 기반으로 알고리즘과 자료구조를 학습하고, 코딩 테스트를 준비하는 프로젝트입니다.
-
-## 📚 학습 내용
+## 주요 학습 내용
 
 - **알고리즘**: 정렬, 탐색, 그래프, 동적 프로그래밍 등
 - **자료구조**: 배열, 연결 리스트, 스택, 큐, 트리, 해시 등
 - **문제 풀이**: 다양한 코딩 테스트 플랫폼 문제 해결 및 분석
 
-## 🎯 목표
+##  목표
 
 - 컴퓨터 과학 기초 개념 이해 및 응용
 - 효율적인 알고리즘 설계 능력 향상
@@ -46,8 +22,11 @@
 
 ## 🛠️ 개발 환경
 
-- Java 11 이상
-- IDE: IntelliJ IDEA, Eclipse
+[![Java](https://img.shields.io/badge/Java-11%2B-orange?logo=openjdk&logoColor=white)](https://openjdk.org/)
+[![IDE - IntelliJ](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?logo=intellijidea)](https://www.jetbrains.com/idea/)
+[![IDE - Eclipse](https://img.shields.io/badge/IDE-Eclipse-purple?logo=eclipseide)](https://www.eclipse.org/)
+
+> Java 11 이상과 IntelliJ / Eclipse 환경에서 개발됩니다.
 ---
 
 ## 📘 프로젝트 소개
