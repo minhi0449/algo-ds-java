@@ -1,4 +1,4 @@
-package chap01;
+package ch01;
 
 // 전체 프로그램 앞머리 (클래스 선언보다 앞)에 작성합니다.
 import java.util.Scanner;
