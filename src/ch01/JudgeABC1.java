@@ -2,6 +2,9 @@ package ch01;
 
 import java.util.Scanner;
 
+// 실습 1-4
+// n값이 1이나 2가 아닌 어떤 값이라도 C를 출력
+// 프로그램의 흐름이 3개로 분기
 class JudgeABC1 {
     public static void main(String[] args) {
 
