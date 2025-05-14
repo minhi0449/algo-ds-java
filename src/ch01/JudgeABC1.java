@@ -6,10 +6,14 @@ class JudgeABC1 {
     public static void main(String[] args) {
 
         Scanner stdIn = new Scanner(System.in);
-        int n = stdIn.nextInt();
 
         System.out.println();
-        System.out.println("정수 입력하세요. : ");
+        System.out.print("정수 입력하세요. : "); // 사용자에게 입력 요청
+        int n = stdIn.nextInt(); // 입력한 숫자 n에 저장
+
+        // 순서
+        // 1. 사용자에게 먼저 "입력" 요청
+        // 2. 그 다음 숫자 입력을 받아야 함
 
         if (n == 1)
             System.out.println("A");
