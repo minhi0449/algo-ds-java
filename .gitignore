@@ -49,4 +49,4 @@ target/      # Maven
 
 # 개인 설정 파일
 *.iml
-*.iws
+*.iws.idea/
