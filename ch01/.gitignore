@@ -1,4 +1,10 @@
-### IntelliJ IDEA ###
+### IntelliJ IDEA 관련 설정 ###
+.idea/*
+!*.iml
+!.idea/misc.xml
+!.idea/modules.xml
+
+### Build 결과물 제외 ###
 out/
 !**/src/main/**/out/
 !**/src/test/**/out/
