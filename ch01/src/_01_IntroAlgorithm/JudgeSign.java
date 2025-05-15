@@ -1,4 +1,4 @@
-package ch01;
+package _01_IntroAlgorithm;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package ch01;
+package _01_IntroAlgorithm;
 
 public class Max3Method {
     // a, b, c의 최댓값을 구하여 반환

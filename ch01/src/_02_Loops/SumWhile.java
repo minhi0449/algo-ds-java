@@ -1,4 +1,4 @@
-package ch01;
+package _02_Loops;
 
 import java.util.Scanner;
 
