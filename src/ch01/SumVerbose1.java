@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 // 실습 1-10
 // 1, 2, ···, n의 합과 그 값을 구하는 과정 출력(1)
+// verbose → 장황한, 말이 많은
+// verbose → 개발에서는 보통 '출력이 자세하고 길게 나오는 모드' 의미
 class SumVerbose1 {
     public static void main(String[] args) {
         Scanner stdIn = new Scanner(System.in);
