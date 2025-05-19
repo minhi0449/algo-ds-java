@@ -1,4 +1,4 @@
-package doWhile;
+package exercise.doWhile;
 
 import java.util.Scanner;
 /*
