@@ -4,6 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 // 연습 2-2
+// Q2. 배열 요소를 역순으로 정렬하는 과정을 하나 하나 나타내는 프로그램을 작성하세요.
 // 배열 요소에 값을 입력 받아 역순으로 정렬합니다.(과정을 출력)
 class ReverseArrayEx {
 
@@ -16,7 +17,7 @@ class ReverseArrayEx {
     static void reverse(int[] a) {
         System.out.println(Arrays.toString(a));
         for (int i = 0; i < a.length / 2; i++) {
-            System.out.println("a[" + i + "] 와 a[" + (a.length - i - 1) + "]을 교환합니다.");
+            System.out.println("'a[" + i + "]' 와 'a[" + (a.length - i - 1) + "]' 을 교환합니다.\n");
             swap(a, i, a.length - i - 1);
             System.out.println(Arrays.toString(a));
         }
@@ -34,9 +35,10 @@ class ReverseArrayEx {
             System.out.print("x[" + i + "] : ");
             x[i] = sc.nextInt();
         }
+        System.out.println("---------------------------------------");
 
         reverse(x);
 
-        System.out.println("----- 역순 정렬을 마쳤습니다. -----");
+        System.out.println("---------- 역순 정렬을 마쳤습니다. ----------");
     }
 }
