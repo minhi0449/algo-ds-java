@@ -1,5 +1,3 @@
-package ch03;
-
 import java.util.Scanner;
 
 // 실습 3-1
