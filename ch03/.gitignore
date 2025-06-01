@@ -27,3 +27,26 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# Java 컴파일 결과물
+*.class
+
+# 로그 파일
+*.log
+
+# IDE 공통 임시 파일
+*.swp
+*~
+*.tmp
+
+# 테스트 리포트 결과 (JUnit, TestNG 등)
+test-output/
+
+# 빌드 도구 사용 시
+.gradle/     # Gradle
+build/       # Gradle
+target/      # Maven
+
+# 개인 설정 파일
+*.iml
+*.iws.idea/
