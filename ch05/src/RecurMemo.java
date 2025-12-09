@@ -4,6 +4,7 @@
 public class RecurMemo {
     static String[] memo;
 
+    // 메모화를 도입한 recur 메서드
     static void recur(int n){
         if(memo[n + 1] != null){
             System.out.println(memo[n + 1]);
