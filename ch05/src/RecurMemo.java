@@ -1,3 +1,4 @@
+import java.util.Scanner;
 
 // 실습 5-6
 // 재귀 함수를 메모화로 구현
@@ -16,8 +17,17 @@ public class RecurMemo {
                 memo[n + 1] = memo[n] + n + "\n" + memo[n - 1]; // 메모화
             }
             else {
-                memo[n + 1] = "";
+                memo[n + 1] = ""; // 메모화: recur(0)과 recur(-1)은 빈 문자열
             }
         }
+    }
+
+    public static void main(String[] args) {
+        Scanner stdIn = new Scanner(System.in);
+        System.out.println("정수를 입력하세요 : ");
+        int x = stdIn.nextInt();
+
+        memo = new String[x + 2];
+        recur(x);
     }
 }
