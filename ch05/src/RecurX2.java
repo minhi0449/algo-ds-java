@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-// 실습 5-2
+// 실습 5-5
 // 재귀에 대한 이해를 돕는 순수 재귀 메서드 (재귀를 제거)
 class RecurX2 {
     // 재귀를 제거한 recur
